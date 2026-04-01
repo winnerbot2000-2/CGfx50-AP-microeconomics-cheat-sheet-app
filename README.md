@@ -18,12 +18,20 @@ It includes:
 i made this because i didnt want to study it has alot of information so youl figure it out its good enough. it was made fast so there might be some buggs like text looking bad or crammed i might add like a privacy code or smth like that later but its just a app that has everything involved
 
 Install process:
--connect the calculator to your computer
--select usb
--donwload the .g3a
--drag it in the calculator 
--plug the calc out then open the app
-____________________________________________________________________________________________________________________________________________________________________________-
+
+- connect the calculator to your computer
+- select usb
+- donwload the .g3a
+- drag it in the calculator
+- plug the calc ot then open the app
+- open the app and mess around
+
+
+
+
+ 
+
+_______________________________________________________________________________________________________________________________________
 ## more advanced stuff
 
 - Platform: Casio fx-CG50
