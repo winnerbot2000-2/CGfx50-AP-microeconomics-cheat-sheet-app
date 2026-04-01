@@ -1,4 +1,4 @@
-# CG Micro
+# CG AP Microeconomics cheat app
 
 AP Microeconomics study app for the Casio fx-CG50.
 
@@ -15,9 +15,16 @@ It includes:
 - quick review sheets
 - exam cram pages
 
-If you want a calculator study app with fast lookups, graph reminders, and compact review pages, this is the AP Micro one.
+i made this because i didnt want to study it has alot of information so youl figure it out its good enough. it was made fast so there might be some buggs like text looking bad or crammed i might add like a privacy code or smth like that later but its just a app that has everything involved
 
-## At A Glance
+Install process:
+-connect the calculator to your computer
+-select usb
+-donwload the .g3a
+-drag it in the calculator 
+-plug the calc out then open the app
+____________________________________________________________________________________________________________________________________________________________________________-
+## more advanced stuff
 
 - Platform: Casio fx-CG50
 - Format: native `fxsdk/gint` add-in
