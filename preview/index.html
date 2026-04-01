@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AP Micro fx-CG50 Preview</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="page">
+    <aside class="sidebar">
+      <h1>AP Micro Preview</h1>
+      <p>Emulator-like browser view for the native fx-CG50 add-in data.</p>
+      <button data-section="home">Home</button>
+      <button data-section="units">Units</button>
+      <button data-section="vocabulary">Vocabulary</button>
+      <button data-section="graphs">Graphs</button>
+      <button data-section="formulas">Formulas</button>
+      <button data-section="structures">Structures</button>
+      <button data-section="quick_review">Quick Review</button>
+      <button data-section="exam_cram">Exam Cram</button>
+      <button data-section="reference">Reference</button>
+      <button data-section="audit">Source Audit</button>
+      <div class="notes">
+        <strong>Preview note</strong>
+        <p>This mirrors the native data and navigation shape. Exact calculator drawing primitives still need the real `.g3a` on hardware or CASIO's emulator.</p>
+      </div>
+    </aside>
+
+    <main class="workspace">
+      <div class="toolbar">
+        <button id="backButton">Back</button>
+        <button id="homeButton">Home</button>
+        <span id="pathLabel">Home</span>
+      </div>
+
+      <div class="calculator">
+        <section class="list-panel">
+          <div class="panel-title" id="listTitle">Loading...</div>
+          <div class="panel-subtitle" id="listSubtitle"></div>
+          <div id="listView" class="list-view"></div>
+        </section>
+
+        <section class="detail-panel">
+          <div class="panel-title" id="detailTitle">Welcome</div>
+          <div class="panel-subtitle" id="detailSubtitle">Preview</div>
+          <div id="detailActions" class="detail-actions"></div>
+          <div id="detailTabs" class="detail-tabs"></div>
+          <div id="detailBody" class="detail-body"></div>
+          <div id="helperArea" class="helper-area"></div>
+        </section>
+      </div>
+    </main>
+  </div>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

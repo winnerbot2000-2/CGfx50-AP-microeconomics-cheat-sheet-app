@@ -1,0 +1,9 @@
+build-cg/
+temp/
+__pycache__/
+*.pyc
+*.pyo
+*.g3a
+
+generated/smoke_test_report.txt
+generated/validation_report.txt
