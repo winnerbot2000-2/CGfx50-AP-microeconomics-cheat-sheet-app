@@ -1,6 +1,6 @@
 # CG AP Microeconomics cheat app
 
-AP Microeconomics study app for the Casio fx-CG50.
+AP Microeconomics study app for the Casio fx-CG50. MATERIAL GIVEN BY MY SCHOOL MIGHT NOT INCLUDE WHAT YOUR SCHOOL TEACHES YOU. also this beta 
 
 ## Quick Summary
 
